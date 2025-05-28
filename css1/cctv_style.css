@@ -1,0 +1,486 @@
+
+
+
+.faq-one__right .faq-one-accrodion .accrodion.active {
+    border: 1px solid #fff;
+}
+.cctv_contact_area {
+    background-image: url(../images/ref222.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 120px 0 85px;
+}
+
+.cctv_contact_area .witr_section_title {
+    margin-bottom: 50px;
+}
+.text-left {
+    text-align: left;
+}
+.cctv_contact_area .witr_section_title_inner h2, .cctv_contact_area .witr_section_title_inner h3 {
+    color: #fff;
+}
+.witr_section_title_inner h2 {
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    color: #0c5adb;
+}
+.cctv_contact_area .witr_section_title_inner h2, .cctv_contact_area .witr_section_title_inner h3 {
+    color: #fff;
+}
+.witr_section_title_inner h3 {
+    padding: 5px 0 0 0;
+}
+.witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3 {
+    font-size: 26px;
+    margin: auto;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.contact_inner {
+    padding: 0px 15px 0px 0;
+}
+.witr_apartment_form input, .witr_apartment_form form select, .wpcf7-not-valid-tip, .witr_apartment_form input::-webkit-input-placeholder, .wpcf7-form-control-wrap input, .wpcf7-form-control-wrap input::-webkit-input-placeholder, .wpcf7-form-control-wrap a, .wpcf7-form-control-wrap a::-webkit-input-placeholder, .wpcf7-form-control-wrap textarea, .wpcf7-form-control-wrap textarea::-webkit-input-placeholder, .wpcf7-submit::-webkit-input-placeholder, .witr_apartment_form form select option {
+    color: #1e1e2a;
+}
+.witr_apartment_form form select, .witr_apartment_form form select, .witr_apartment_form input {
+    width: 100%;
+    height: 45px;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+    padding: 0px 20px;
+}
+.witr_apartment_form input, .witr_apartment_form form select, .wpcf7-form-control-wrap textarea, .wpcf7-form-control-wrap a, .wpcf7-form-control-wrap input, .witr_apartment_form textarea {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #3c4353;
+    padding: 10px 0px 23px 20px;
+    background-color: #FFFFFF00;
+}
+.witr_apartment_form textarea {
+    color: #fff;
+}
+.twr_form_box textarea {
+    margin-bottom: 25px;
+    height: 150px;
+    width: 100%;
+}
+.witr_apartment_form input, .witr_apartment_form form select, .wpcf7-form-control-wrap textarea, .wpcf7-form-control-wrap a, .wpcf7-form-control-wrap input, .witr_apartment_form textarea {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #3c4353;
+    padding: 23px 0px 23px 20px;
+    background-color: #FFFFFF00;
+}
+.witr_apartment_form .btn {
+    border: 0 none;
+    display: inline-block;
+    font-weight: 500;
+    padding: 15px 30px;
+    background: #0a4f97;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 10x 0 0;
+    margin: 10px 0 0;
+}
+
+
+.chooseus-section .pattern-layer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.chooseus-section {
+    position: relative;
+    overflow: hidden;
+    padding: 116px 0px 85px 0px;
+}
+.chooseus-section .image-layer {
+    position: absolute;
+    right: 140px;
+    bottom: 0px;
+    z-index: 1;
+}
+.slideInUp {
+    -webkit-animation-name: slideInUp;
+    animation-name: slideInUp;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    transition-delay: .1s;
+    transition-timing-function: ease-in-out;
+    transition-duration: .7s;
+    transition-property: all;
+}
+.chooseus-section .image-layer {
+    position: absolute;
+    right: 140px;
+    bottom: 0px;
+    z-index: 1;
+}
+
+.chooseus-section .sec-title {
+    margin-bottom: 15px;
+}
+.sec-title {
+    position: relative;
+    display: block;
+   
+}
+
+.sec-title h2 {
+    position: relative;
+    display: block;
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: 700;
+}
+
+.sec-title h2 span {
+    font-weight: 400;
+}
+
+.chooseus-section .inner-content .content-box-one {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.chooseus-section .inner-content .content-box-one .single-item {
+    padding-top: 35px;
+}
+.chooseus-section .inner-content .single-item {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+    max-width: 225px;
+    width: 100%;
+    margin-right: 10px;
+}
+
+.chooseus-section .inner-content .single-item .content-box {
+    position: relative;
+    display: block;
+    background: #fff;
+    padding: 40px 15px 22px 15px;
+    text-align: center;
+    opacity: 1;
+    z-index: 1;
+    transition: all 900ms ease;
+}
+
+.chooseus-section .inner-content .single-item .content-box .icon-box {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 14px;
+    z-index: 1;
+}
+figure {
+    margin: 0px;
+}
+.chooseus-section .inner-content .single-item .content-box .icon-box:before {
+    position: absolute;
+    content: '';
+    background: #eeeef5;
+    height: 54px;
+    width: 54px;
+    border-radius: 50%;
+    top: -10px;
+    right: -30px;
+    z-index: -1;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    transition-delay: .1s;
+    transition-timing-function: ease-in-out;
+    transition-duration: .7s;
+    transition-property: all;
+}
+.chooseus-section .inner-content .single-item .content-box h4 {
+    position: relative;
+    display: block;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.chooseus-section .inner-content .content-box-one .single-item .overlay-box {
+    top: 30px;
+}
+.chooseus-section .inner-content .single-item .overlay-box {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    background: #fff;
+    padding: 30px 15px 23px 15px;
+    text-align: center;
+    z-index: 1;
+    opacity: 0;
+    transition: all 500ms ease;
+}
+.chooseus-section .inner-content .content-box-one .single-item {
+    padding-top: 35px;
+}
+.chooseus-section .inner-content .single-item {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+    max-width: 215px;
+    width: 100%;
+    margin-right: 10px;
+}
+
+.booking-section {
+    position: relative;
+}
+.auto-container {
+    position: static;
+    max-width: 1200px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+.booking-section .inner-box {
+    position: relative;
+    background: #fff;
+    padding: 42px 50px 30px 50px;
+    margin-top: -100px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    z-index: 99;
+}
+.booking-section .upper-box {
+    position: relative;
+    display: block;
+    margin-bottom: 32px;
+}
+.pull-left {
+    float: left;
+}
+.booking-section .title-inner h2 {
+    position: relative;
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+.booking-section .upper-box .link-box {
+    margin-top: 24px;
+}
+.pull-right {
+    float: right;
+}
+
+.booking-form .form-group {
+    position: relative;
+    margin: 0px;
+}
+.booking-form .form-group .field-input {
+    position: relative;
+    margin-bottom: 20px;
+}
+.booking-form .form-group .field-input i {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 16px;
+    color: #a6a6af;
+    z-index: 1;
+}
+.far {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+}
+.fa-user:before {
+    content: "\f007";
+}
+
+.booking-form .form-group .field-input input[type='text'] {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    border: 1px solid #e3e3e3;
+    background: #fff;
+    color: #5a5a68;
+    border-radius: 5px;
+    padding: 10px 50px 10px 20px;
+    font-size: 16px;
+    transition: all 500ms ease;
+}
+.booking-form .form-group {
+    position: relative;
+    margin: 0px;
+}
+.booking-form .form-group button {
+    width: 100%;
+    display: block;
+    padding: 14px 50px;
+}
+.booking-form .form-group button:before {
+    background: #fff;
+}
+.theme-btn:before {
+    position: absolute;
+    content: '';
+    background: #1e1e2a;
+    width: 0%;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    border-radius: 5px;
+    z-index: -1;
+    transition: all 500ms ease;
+}
+.theme-btn i {
+    position: relative;
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.flaticon-login:before {
+    content: "\f103";
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+}
+.theme-btn {
+    background: -webkit-linear-gradient(0deg, #1e1e2a, #1e1e2a 50%);
+}
+.theme-btn {
+    position: relative;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #fff !important;
+    padding: 15px 58px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 1;
+    transition: all 500ms ease;
+}
+.booking-section .upper-box .link-box a {
+    position: relative;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+}
+.booking-section .upper-box .link-box a {
+    color: #1e1e2a
+;
+    border-bottom: 1px dashed #1e1e2a;
+}
+.swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after {
+    content: 'prev';
+	font-size:27px;
+}
+.swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after {
+    content: 'next';
+	font-size:27px;
+}
+
+.cctv_brand_area {
+    padding: 85px 0px 100px 0px;
+    background: #0a4f97;
+}
+.slide_items {
+    text-align: center;
+}
+
+
+
+
+.slick-dots li button {
+    font-size: 0;
+    width: 30px;
+    height: 12px;
+    border: 0 solid #0c5adb;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 50px;
+    padding: 0;
+    -webkit-transition: .5s;
+    transition: .5s;
+    outline: 0;
+    background: #0c5adb5c;
+}
+ .slick-dots li.slick-active button {
+    background-color:#0c5adb;
+}
+.slick-dots li {
+    display: inline-block;
+}
+.slick-dots {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: -54px;
+    display: inline-block;
+    z-index: 11;
+    text-align: center;
+}
+/* slick prev slick next css */
+/*======== slick ========*/
+.slick-prev, .slick-next {
+    font-size: 0;
+    position: absolute;
+    display: block;
+    padding: 0;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    background: #ff3d0;
+    z-index: 9;
+    opacity: 0;
+    border-radius: 0px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    top: 50%;
+    transform: translate(0px, -50%);
+    transition: .5s;
+    border: 0px solid #17161a;
+    background: #21cdc0;
+}
+ .slick-prev {
+     left: -65px;
+}
+ .slick-next {
+     right: -65px;
+}
+.simages_id11:hover .slick-prev, .simages_id11:hover .slick-next {
+	opacity:1;
+}
+.witr_ds_content_area .slick-prev, .witr_ds_content_area .slick-next {
+	top: 48%;
+	opacity:1;
+}
+.witr_ds_content_area:hover .slick-prev, .witr_ds_content_area:hover .slick-next {
+	opacity:1;
+}
