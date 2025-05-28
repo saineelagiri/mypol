@@ -6,7 +6,7 @@ git add .
 
 git commit -m " autoamtion"
 
-git remote add origin https://github.com/saineelagiri/sachina.git
+git remote add origin https://github.com/saineelagiri/mypol.git
 
 git push -f origin master
 
