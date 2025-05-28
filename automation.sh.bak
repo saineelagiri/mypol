@@ -1,4 +1,4 @@
-cd E:\wamp11\www\allied
+cd "E:\wamp11\www\allied"
 
 git init
 
