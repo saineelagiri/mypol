@@ -1,4 +1,5 @@
 cd E:\wamp11\www\allied
+
 git init
 
 git add .
