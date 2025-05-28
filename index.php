@@ -44,6 +44,239 @@
     <link rel="stylesheet" href="css/elitecons-responsive.css" />
 </head>
 <style>
+.service1{
+
+margin-top:0px;
+
+}
+
+@media screen and (max-width: 989px) {
+.service1{
+
+margin-top:74px;
+
+}
+}
+
+
+.hrcore{
+
+margin: 25px 35px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 680px;
+    float: inline-end;
+}
+
+.coreservices{
+color:#fff;
+font-size:100px;
+text-align: right !important;
+display: block;   
+padding: 24px 35px;
+
+}
+@media screen and (max-width: 1400px) {
+.hrcore{
+
+margin: 25px 35px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 500px;
+    float: inline-end;
+}
+
+}
+@media screen and (max-width: 1400px) {
+.coreservices{
+color:#fff;
+font-size:73px;
+text-align: right !important;
+display: block;   
+padding: 24px 35px;
+
+}
+}
+
+@media screen and (max-width: 975px) {
+.hrcore{
+
+margin: 25px 221px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 500px;
+    float: inline-end;
+}
+
+}
+
+@media screen and (max-width: 800px) {
+.hrcore{
+
+margin: 25px 125px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 500px;
+    float: inline-end;
+}
+
+}
+
+@media screen and (max-width: 610px) {
+.hrcore{
+
+margin: 25px 49px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 500px;
+    float: inline-end;
+}
+
+}
+
+@media screen and (max-width: 595px) {
+.hrcore{
+
+margin: 25px 39px;
+    padding: 0px;
+    border-bottom: 4px solid #fff;
+    border-top: 0;
+    opacity: 1;
+    width: 500px;
+    float: inline-end;
+}
+
+}
+
+@media screen and (max-width: 491px) {
+    .hrcore {
+        margin: 25px 9px;
+        padding: 0px;
+        border-bottom: 4px solid #fff;
+        border-top: 0;
+        opacity: 1;
+        width: 440px;
+        float: inline-end;
+    }
+}
+@media screen and (max-width: 975px) {
+.coreservices{
+color:#fff;
+font-size:73px;
+text-align: center !important;
+display: block;   
+padding: 24px 35px;
+
+}
+}
+
+@media screen and (max-width: 605px) {
+    .coreservices {
+        color: #fff;
+        font-size: 73px;
+        text-align: center !important;
+        display: block;
+        padding: 0 36px;
+        line-height: 1;
+    }
+}
+.imgsize{
+height:100%;
+}
+
+@media screen and (max-width: 1700px) {
+   
+
+.imgsize{
+height:680px;
+}
+
+
+}
+
+
+@media screen and (max-width: 1680px) {
+   
+
+.imgsize{
+height:690px;
+}
+
+
+}
+
+@media screen and (max-width: 1600px) {
+   
+
+.imgsize{
+height:715px;
+}
+
+
+}
+
+@media screen and (max-width: 1580px) {
+   
+
+.imgsize{
+height:750px;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width: 1260px) {
+   
+
+.imgsize{
+height:780px;
+}
+
+
+}
+
+@media screen and (max-width: 1200px) {
+   
+
+.imgsize{
+height:833px;
+}
+
+
+}
+
+@media screen and (max-width: 1100px) {
+   
+
+.imgsize{
+height:931px;
+}
+
+
+}
+
+@media screen and (max-width: 1000px) {
+   
+
+.imgsize{
+height:931px;
+}
+
+
+}
 hr.new5 {
   border: 1px solid white;
   border-radius: 5px;
@@ -460,59 +693,9 @@ hr.new5 {
 
 		<br><br>
      
-<!-- <section class="about-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-one__left">
-                            <div class="about-one__img"	>
-                                <img src="images/about us.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="about-one__right">
-                            <div class="section-title text-left sec-title-animation animation-style1">
-                                <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">ABOUT US</span>
-                                </div>
-                                <h2 class="section-title__title ">Responsive Service Focused on Quality and Safety for Over 30 years</h2>
-                            </div>
-                            <p class="about-one__text">Whether your project is planned or unexpected, you can't afford to waste time or cut corners. You need certified and experienced professionals to complete the job safely and efficiently.  </p>
-<br>
-							<p class="about-one__text"> For environmental spill response and restoration, industrial cleaning, tank coating and lining, asbestos and lead-based paint abatement and hazardous materials management, you'll find an experienced and trustworthy partner in Allied Environmental Services.</p><br>
 
-<div class="main-slider__btn-box">
-                                                <a href="#" class="main-slider__btn thm-btn">About  Us<span
-                                                        class="icon-dabble-arrow-right"></span></a>
-                                            </div>
-                           <ul class="about-one__points-list list-unstyled">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-analytics"></span>
-                                    </div>
-                                    <div class="content">
-                                        <h3><a href="#">Smart Analytics</a></h3>
-                                        <p>Content Marketing printing Solutions: Engage, <br> Inform, and Convert</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-prestige"></span>
-                                    </div>
-                                    <div class="content">
-                                        <h3><a href="#">Prestige Construction</a></h3>
-                                        <p>Content Marketing printing Solutions: Engage, <br> Inform, and Convert</p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
 
-		
+		<!-- 
 <section class="why-choose-one">
             <div class="why-choose-one__bg"
                 style="background-image: url(images/truck1.jpg);"></div>
@@ -541,15 +724,77 @@ What sets Allied apart is our customer-focused approach to business.  We pride o
 Allied provides comprehensive service for scheduled maintenance projects, facility shutdowns, site remediation projects and emergency response situations.  With an expansive equipment fleet and staff of certified professionals, we provide safe, responsive and high-quality service throughout Ohio and neighboring states.
 
 </p>
-                            <!-- <ul class="why-choose-one__points list-unstyled">
-                                <li>
-                                    <div class="icon">
-                                       
-                                    </div>
-                                    <h3><a href="#">Read More</a></h3>
-                                </li>
-                                
-                            </ul> -->
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+
+  <section class="faq-one faq-five" style="  padding: 0px 0 00px;">
+            <div class="container" style="max-width:2000px;">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6" style="background-color: #1e222f; padding: 60px 38px 10px 43px;" >
+                        <div class="faq-one__left">
+                            <div class="section-title text-left sec-title-animation animation-style1">
+                                <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline" style="color:#fff;">About Us</span>
+                                </div>
+                                <h2 class="section-title__title" style="color:#fff;">Who we are <hr class="new5"></h2>
+                           
+                            </div>
+                            <p class="why-choose-one__text" style="text-align: justify;
+  text-justify: inter-word;"> For nearly 40 years, Allied has provided responsive and effective industrial cleaning, industrial coating, and environmental field services to private industry, municipalities, military installations, hospitals, and public facilities.   We operate with the flexibility and responsiveness of a small business, but with the reach and capabilities of our largest competitors.  </p><br>
+
+<p class="why-choose-one__text" style="text-align: justify;
+  text-justify: inter-word;">
+What sets Allied apart is our customer-focused approach to business.  We pride ourselves in developing long-term industry partnerships with our customers by responding immediately to their needs...and doing what we say we're are going to do.
+
+</p>
+<br>
+<p class="why-choose-one__text" style="text-align: justify;
+  text-justify: inter-word;">
+Allied provides comprehensive service for scheduled maintenance projects, facility shutdowns, site remediation projects and emergency response situations.  With an expansive equipment fleet and staff of certified professionals, we provide safe, responsive and high-quality service throughout Ohio and neighboring states.
+
+</p><br>
+                           
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6" style="  padding: 0px 0 00px;">
+                        <div class="faq-one__right">
+                            
+<div  ><img src="images/truck1.jpg"  border="0" alt="" class="imgsize"></div>
+  
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<section class="faq-one faq-five" style=" background-color: #fff; padding: 78px 0 70px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-8 col-lg-8">
+                        <div class="faq-one__left">
+                            <div class="section-title text-left sec-title-animation animation-style1">
+                                <!-- <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline">SOME fAQS</span>
+                                </div> -->
+                                <h2 class="section-title__title title-animation" style="color:#1d1e20;">Employee - Owned</h2>
+                            </div>
+                            <p class="faq-one__text" style="color:#1d1e20;text-align: justify;
+  text-justify: inter-word;width:90%">
+Allied Environmental Services, Inc. is proudly owned by its employees. Our Employee Stock Ownership Plan (ESOP) is the driving force behind our culture of quality, teamwork and customer satisfaction. Every employee, from field technician to corporate principal, shares a vested interest in the company's performance, success and reputation. We take pride in our quality of service, push each other to constantly improve, and stand behind our work....because WE OWNIT. </p>
+                           
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <div class="faq-one__right">
+                            
+
+                      <img src="images/esop12.png" width="300" height="296" border="0" alt="">
+
                         </div>
                     </div>
                 </div>
@@ -560,13 +805,7 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
             <div class="container" style="max-width:2000px;">
                 <div class="section-title  sec-title-animation animation-style1">
                     <div >
-                        <h2><span class="section-title__tagline" style="color:#fff;font-size:100px; text-align: right !important;display: block;    padding: 24px 35px;">CORE SERVICES</span></h2><hr style="margin: 25px 35px;
-    padding: 0px;
-    border-bottom: 4px solid #fff;
-    border-top: 0;
-    opacity: 1;
-    width: 680px;
-    float: inline-end;">
+                        <h2><span class="section-title__tagline coreservices" >CORE SERVICES</span></h2><hr class="hrcore"style="">
                     </div>
                     <!-- <h2 class="section-title__title ">Whether your project is planned or unexpected, you can't afford to waste time or cut corners. </h2> -->
                 </div>
@@ -587,7 +826,10 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                                     <img src="images/service1.jpg" alt="" style="border: 4px solid #fff;border-radius: 16px;">
 									
                                 </div>
-                                <h3 class="services-two__title" style="margin-top:25px;text-align:center;"><a href="#" style="color:#fff;font-weight: 700;">INDUSTRIAL CLEAING <br>& MAINTENANCE</a></h3>
+                                <h3 class="services-two__title" style="    margin-top: 25px;
+    text-align: center;
+    background-color: #221f1f;
+    padding: 6px 9px 7px 16px;"><a href="#" style="color:#fff;font-weight: 700;">INDUSTRIAL CLEANING <br>& MAINTENANCE</a></h3>
                                 <!-- <p class="services-two__text">Lorem Ipsum isly dummy text of the printing Lorem Ipsum
                                 </p> -->
                                 <!-- <div class="services-two__btn-box">
@@ -599,7 +841,7 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                     </div>
                     <!--Services Two Single End-->
                     <!--Services Two Single Start-->
-                    <div class="col-xl-3 col-lg-3 ">
+                    <div class="col-xl-3 col-lg-3 service1">
                         <div class="services-two__single">
                             <div class="services-two__img-box">
                                 <!-- <div class="services-two__img">
@@ -614,7 +856,10 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                                     <img src="images/service2.jpg" alt="" style="border: 4px solid #fff;border-radius: 16px;">
                                 </div>
                             </div>
-                                <h3 class="services-two__title" style="margin-top:25px;margin-left: 22px;text-align: center;"><a href="#" style="color:#fff;font-weight: 700;">INDUSTRIAL COATING <br>& LININGS</a>
+                                <h3 class="services-two__title" style="    margin-top: 25px;
+    text-align: center;
+    background-color: #221f1f;
+    padding: 6px 9px 7px 16px;"><a href="#" style="color:#fff;font-weight: 700;">INDUSTRIAL COATINGS <br>& LININGS</a>
                                 </h3>
                                 <!-- <p class="services-two__text">Lorem Ipsum isly dummy text of the printing Lorem Ipsum
                                 </p> -->
@@ -627,7 +872,7 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                     </div>
                     <!--Services Two Single End-->
                     <!--Services Two Single Start-->
-                    <div class="col-xl-3 col-lg-3 ">
+                    <div class="col-xl-3 col-lg-3 service1">
                         <div class="services-two__single">
                             <div class="services-two__img-box">
                                 <!-- <div class="services-two__img">
@@ -640,7 +885,10 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
 							<div  style="border-radius: 16px;">
                                     <img src="images/service3.jpg" alt="" style="border: 4px solid #fff;border-radius: 16px;">
                                 </div>
-                                <h3 class="services-two__title" style="margin-top:25px;margin-left: 22px;text-align: center;"><a href="#" style="color:#fff;font-weight: 700;">ENVIRONMENTAL <br>FIELD SERVICES</a>
+                                <h3 class="services-two__title" style="    margin-top: 25px;
+    text-align: center;
+    background-color: #221f1f;
+    padding: 6px 9px 7px 16px;"><a href="#" style="color:#fff;font-weight: 700;">ENVIRONMENTAL <br>FIELD SERVICES</a>
                                 </h3>
                                 <!-- <p class="services-two__text">Lorem Ipsum isly dummy text of the printing Lorem Ipsum
                                 </p> -->
@@ -652,7 +900,7 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                         </div>
                     </div>
 
-					  <div class="col-xl-3 col-lg-3 ">
+					  <div class="col-xl-3 col-lg-3 service1">
                         <div class="services-two__single">
                             <div class="services-two__img-box">
                                 <!-- <div class="services-two__img">
@@ -665,7 +913,10 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
 							<div  style="border-radius: 16px;">
                                     <img src="images/service4.jpg" alt="" style="border: 4px solid #fff;border-radius: 16px;">
                                 </div>
-                                <h3 class="services-two__title" style="margin-top:25px;margin-left: 22px;text-align: center;"><a href="#" style="color:#fff;font-weight: 700;">ASBESTOS AND LEAD <br>PAINT MANAGEMENT</a>
+                                <h3 class="services-two__title" style="    margin-top: 25px;
+    text-align: center;
+    background-color: #221f1f;
+    padding: 6px 9px 7px 16px;"><a href="#" style="color:#fff;font-weight: 700;">ASBESTOS AND LEAD <br>PAINT MANAGEMENT</a>
                                 </h3>
                                 <!-- <p class="services-two__text">Lorem Ipsum isly dummy text of the printing Lorem Ipsum
                                 </p> -->
@@ -696,6 +947,7 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
             </div>
         </section>
         
+      
       
 		
 		<section class="chooseus-section">
@@ -807,81 +1059,6 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
 
 
 
-
-
-<!-- <section class="counter-one">
-            <div class="container">
-                <div class="counter-one__inner">
-                    <div class="counter-one__bg-shape"
-                        style="background-image: url(images/counter-one-bg-shape.png);"></div>
-                    <div class="row">
-                        
-                        <div class="col-xl-3 col-lg-6 col-md-6">
-                            <div class="counter-one__single">
-                                <div class="counter-one__icon">
-                                    <span class="icon-blueprint-1"></span>
-                                </div>
-                                <div class="counter-one__count-list-content">
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="20" data-speed="1500">00</h3>
-                                        <span>+</span>
-                                    </div>
-                                    <p class="counter-one__text">Winning award</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="col-xl-3 col-lg-6 col-md-6">
-                            <div class="counter-one__single">
-                                <div class="counter-one__icon">
-                                    <span class="icon-brick-wall"></span>
-                                </div>
-                                <div class="counter-one__count-list-content">
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="900" data-speed="1500">00</h3>
-                                        <span>+</span>
-                                    </div>
-                                    <p class="counter-one__text">Client review</p>
-                                </div>
-                            </div>
-                        </div>
-                       
-                        <div class="col-xl-3 col-lg-6 col-md-6">
-                            <div class="counter-one__single">
-                                <div class="counter-one__icon">
-                                    <span class="icon-blueprint"></span>
-                                </div>
-                                <div class="counter-one__count-list-content">
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="10" data-speed="1500">00</h3>
-                                        <span>K</span>
-                                        <span>+</span>
-                                    </div>
-                                    <p class="counter-one__text">Complete project</p>
-                                </div>
-                            </div>
-                        </div>
-                       
-                        <div class="col-xl-3 col-lg-6 col-md-6">
-                            <div class="counter-one__single">
-                                <div class="counter-one__icon">
-                                    <span class="icon-blueprint-2"></span>
-                                </div>
-                                <div class="counter-one__count-list-content">
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="200" data-speed="1500">00</h3>
-                                        <span>+</span>
-                                    </div>
-                                    <p class="counter-one__text">Team member</p>
-                                </div>
-                            </div>
-                        </div>
-                    
-                    </div>
-                </div>
-            </div>
-        </section> -->
-
 		      <div class="cctv_brand_area">
          <div class="container">
             <div class="row">
@@ -939,7 +1116,8 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
             </div>
          </div>
       </div> </div>
-      
+
+
 <section class="faq-one" style="margin-top:0px;background-image: url(images/333.png);padding: 120px 0 120px;">
             <div class="container">
                 <div class="row">
@@ -1038,15 +1216,13 @@ Allied provides comprehensive service for scheduled maintenance projects, facili
                 </div>
             </div>
         </section>
-     <section class="faq-one faq-five"    style=" background-color: #0e0928; padding: 78px 0 70px;">
+     <!-- <section class="faq-one faq-five" style=" background-color: #0e0928; padding: 78px 0 70px;">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-8 col-lg-8">
                         <div class="faq-one__left">
                             <div class="section-title text-left sec-title-animation animation-style1">
-                                <!-- <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">SOME fAQS</span>
-                                </div> -->
+                               
                                 <h2 class="section-title__title title-animation" style="color:#fff;">Employee - Owned</h2>
                             </div>
                             <p class="faq-one__text" style="color:#fff;text-align: justify;
@@ -1065,7 +1241,7 @@ Allied Environmental Services, Inc. is proudly owned by its employees. Our Emplo
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
        <section class="blog-one" style="background-color:#f3f3f3">
             <div class="container">
